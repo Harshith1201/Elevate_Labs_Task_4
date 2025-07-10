@@ -18,9 +18,7 @@ Configure and test basic firewall rules to block or allow traffic using:
 5. **Removed test rule to restore system state.**
 6. **Captured current rules for documentation.**
 
-## 📂 File Descriptions
-- `windows/firewall_rule_screenshot.png`: Screenshot of Windows Firewall rule blocking port 23.
-- `linux/firewall_rules.txt`: UFW rules output showing added and removed rules.
+## Assignment mentioned in the PDF file 
 
 ## 📘 Key Concepts Learned
 - Inbound vs Outbound rules
