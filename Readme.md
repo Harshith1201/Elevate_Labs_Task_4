@@ -18,6 +18,7 @@ Configure and test basic firewall rules to block or allow traffic using:
 5. **Removed test rule to restore system state.**
 6. **Captured current rules for documentation.**
 
+
 ## Assignment mentioned in the PDF file 
 
 ## 📘 Key Concepts Learned
